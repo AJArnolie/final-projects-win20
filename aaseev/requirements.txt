@@ -1,7 +1,0 @@
-numpy
-pandas
-matplotlib
-lasio
-itertools
-math
-random

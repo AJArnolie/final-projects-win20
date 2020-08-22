@@ -1,8 +1,0 @@
-#Gathers tweets from past seven days (limit: 10000 tweets)
-hashtag: DemDebate
-keywords: 
-  - Biden
-  - Bernie
-  - Trump
-  - Bloomberg
-  - Booker
