@@ -1,8 +1,7 @@
 # TweetInsight - Twitter Analytics NLP Tool
 
-Name: AJ Arnolie
-Date: 3/10/20
-SUNet: ajarno
+### Name: AJ Arnolie, Date: 3/10/20
+
 ------------------------------------------------------------------------------------
 Project Overview:
 -----------------
