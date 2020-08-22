@@ -212,12 +212,13 @@ solve this problem, but I believe it is just a minor limitation of the twittersc
 library. The easiest fix to this problem is simply to restart the program.
 
 Something that is not a bug but still is something that I though I should address is
-the accuracy of the classification model. From tweet to tweet, it doesn't perform perfectly, 
-(though it is more accurate than I anticipated) but it does a fairly good job of getting 
-the overall sentiment of a bunch of tweets from a query. For example, searching the keywords 
-'happy' and 'sad' will give very clear '+' and '-' responses, though not every individual 
-Tweet is necessarily classified correctly. The model cannot determine sarcasm and doesn't 
-have any context for its classifications, so it cannot possibly be perfect.
+the accuracy of the classification model on individual tweets. From tweet to tweet, 
+it doesn't perform perfectly, (though it is more accurate than I anticipated) but it does 
+a fairly good job of getting the overall sentiment of a bunch of tweets from a query. For 
+example, searching the keywords 'happy' and 'sad' will give very clear '+' and '-' responses, 
+though not every individual Tweet is necessarily classified correctly. The model cannot 
+determine sarcasm and doesn't have any context for its classifications, so it cannot possibly be perfect.
+
 ------------------------------------------------------------------------------------
 Credits:
 --------
