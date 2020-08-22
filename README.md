@@ -1,4 +1,4 @@
-Final Project: TweetInsight - Twitter Analytics Tool
+Final Project: TweetInsight - Twitter Analytics NLP Tool
 Name: AJ Arnolie
 Date: 3/10/20
 SUNet: ajarno
